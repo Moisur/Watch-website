@@ -1,6 +1,7 @@
 # Getting Started with Create React App
-# This is a my website names : [My-watch]
+# This is a my website names :- My-watch
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website lick  [https://earnest-fairy-f8e093.netlify.app/](https://earnest-fairy-f8e093.netlify.app/).
 ## Available Scripts
 
 In the project directory, you can run:
