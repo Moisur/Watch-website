@@ -11,3 +11,18 @@
 .card{
     background-color: rgb(236, 236, 222);
 }
+
+/* ------------------ Responsive------------- */
+@media screen and (max-width: 900px) {
+    .products{
+        grid-template-columns: repeat(2,1fr);
+    }
+  }
+@media screen and (max-width: 600px) {
+    .products{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .container{
+        grid-template-columns: none;
+    }
+  }

@@ -35,3 +35,11 @@ p,h3{
 .ShopingCard{
     padding:0 12px;
 }
+
+@media screen and (max-width: 600px) {
+    .container{
+        width:240px;
+        height: 390px;
+        margin: auto;
+    }
+  }
