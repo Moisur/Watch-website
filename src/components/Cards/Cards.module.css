@@ -1,0 +1,12 @@
+.container{
+    position: sticky;
+    top: 10px;
+}
+.Choose{
+    padding: 5px 12px;
+    background-color: beige;
+    border: 2px solid darkcyan;
+    color:darkcyan;
+    font-size: 18px;
+    margin: 10px;
+}

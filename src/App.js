@@ -1,10 +1,12 @@
 import './App.css';
-import Watches from './components/Watchs/Watches';
+import Products from './components/Products/Products';
+
 function App() {
   return (
     <div className="App">
-      <h1>Top Ten Watch </h1>
+      <h1 className='logo'>Top Ten Watch </h1>
       <hr />
+      <Products></Products>
     </div>
   );
 }
