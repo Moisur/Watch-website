@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Smart watch black",
+    "price": 800,
+    "img": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?w=740&t=st=1648225957~exp=1648226557~hmac=f9f86e620ec5a98c8bf70ce5c1cd87e8bb43307746c785ec8b03035c56d84ddc"
+  },
+  {
+    "id": "2",
+    "name": "smart watch white background",
+    "price": 1420,
+    "img": "https://img.freepik.com/free-vector/isometric-icon-smart-watch-with-voice-assistant-white-background-vector-illustration_1284-66664.jpg?w=740"
+  },
+  {
+    "id": "3",
+    "name": "Realistic smart watch",
+    "price": 1220,
+    "img": "https://img.freepik.com/free-psd/realistic-smart-watch-mockup_165789-534.jpg?w=996&t=st=1648226122~exp=1648226722~hmac=5816fe72bf6a58d9d90bb7055b08370df0f3b547831e466997ca8cbbd74191a2"
+  },
+  {
+    "id": "4",
+    "name": "Elegant watch silver and golden",
+    "price": 420,
+    "img": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=740&t=st=1648226146~exp=1648226746~hmac=72339ab74bf5ea1bb9651888fe8b759a67e025511726bb81f7268de2cc5814fd"
+  },
+  {
+    "id": "5",
+    "name": "Wall clock",
+    "price": 1320,
+    "img": "https://img.freepik.com/free-vector/wall-clock-metal-chrome-frame-isolated-white-background-design_12454-8612.jpg?w=740"
+  },
+  {
+    "id": "6",
+    "name": "Black and yellow stripes",
+    "price": 1320,
+    "img": "https://img.freepik.com/free-vector/black-yellow-stripes-bee-clock_1308-26334.jpg?t=st=1648224045~exp=1648224645~hmac=c0a122e2fcaa3170f3aec3a7d24dee9f35dbba8e3602cff0b1a93f89d2904abb&w=740"
+  },
+  {
+    "id": "7",
+    "name": "Digital smart watch",
+    "price": 1320,
+    "img": "https://img.freepik.com/free-vector/digital-smart-watch-product-cartoon-illustration-vector_201904-1250.jpg?w=740"
+  },
+  {
+    "id": "8",
+    "name": "Luxury gold watch",
+    "price": 1320,
+    "img": "https://img.freepik.com/free-vector/luxury-gold-watch-accesories-gift-collection-symbol-cartoon-illustration-vector_201904-1251.jpg?w=740"
+  },
+  {
+    "id": "9",
+    "name": "Hand watch",
+    "price": 1320,
+    "img": "https://img.freepik.com/free-vector/hand-watch-man-watch-isolated-white-background-wrist-watch-accessory_1284-51538.jpg?t=st=1648226835~exp=1648227435~hmac=f2bca612be71688628493114cb416dd586e355acbd39bdbe3d0b12d4eb196186&w=740"
+  },
+  {
+    "id": "10",
+    "name": "Classic watches interface ",
+    "price": 1320,
+    "img": "https://img.freepik.com/free-vector/classic-watches-interface_250435-186.jpg?t=st=1648226900~exp=1648227500~hmac=e8b60c9ab3102992d868fdce2e2f326534d5ec8a9fa94ba40fdc2de29a9f25fa&w=740"
+  }
+]
