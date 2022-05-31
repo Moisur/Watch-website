@@ -3,6 +3,7 @@ import classes from './Product.module.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {  faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 const Product = ({product,AddtoCard}) => {
+   
     const{img,name,price}=product
     return (
         <div className={classes.container}>

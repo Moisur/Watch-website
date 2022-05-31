@@ -2,8 +2,10 @@ import React, {} from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDeleteLeft } from '@fortawesome/free-solid-svg-icons'
 import classes from './Card.module.css'
-const Card = ({cards}) => {
+const Card = ({cards,deleteItem}) => {
+    
     const {img,name}=cards
+  
     return (
         <div className ={classes.container}>
             <img className={classes.images} src={img} alt="" />
