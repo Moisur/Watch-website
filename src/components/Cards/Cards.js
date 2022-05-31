@@ -13,6 +13,7 @@ const Cards = ({card,ChooseAgain}) => {
     return (
         <div className={classes.container}>
             <h1>Selected Clothes</h1>
+            {/* <h1>Selected Clothes</h1> */}
            {
                 card.map(cards=><Card
                 key={cards.id}
